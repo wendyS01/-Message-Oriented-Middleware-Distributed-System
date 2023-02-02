@@ -1,0 +1,3 @@
+service/message/ClientApplicationMessage.class
+service/message/QuotationRequestMessage.class
+service/message/QuotationResponseMessage.class
